@@ -1,4 +1,4 @@
-import { type AppType } from "@/lib/utils";
+import { type AppType } from "next/dist/shared/lib/utils";
 
 import "@/styles/globals.css";
 import "@/styles/locomotive-scroll.css";
